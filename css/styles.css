@@ -70,7 +70,9 @@ h1,h2,h3{
 .flex{
     display: flex;
 }
-
+.alinear-derecha{
+    justify-content: flex-end;
+}
 @media (min-width: 768px) {
 .boton {
     width: auto;
